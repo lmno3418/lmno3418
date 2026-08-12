@@ -89,10 +89,13 @@ My current focus is on strengthening my foundation in **Python, SQL, data engine
 [![LeetCode Stats](https://leetcard.jacoblin.cool/lmno3418?theme=dark&font=Baloo&ext=heatmap)](https://leetcode.com/u/lmno3418/)
 
 </div>
----
 
+---
+    
 ## 📫 Connect With Me
 
+<div>
+    
 I'm always interested in **AI, data, software engineering, analytics, and practical problem-solving**.
 
 [![Portfolio](https://img.shields.io/badge/%F0%9F%8C%90_Portfolio-lmno3418.netlify.app-302b63?style=for-the-badge)](https://lmno3418.netlify.app/)
@@ -100,6 +103,8 @@ I'm always interested in **AI, data, software engineering, analytics, and practi
 [![Kaggle](https://img.shields.io/badge/%F0%9F%93%8A_Kaggle-Profile-20BEFF?style=for-the-badge)](https://www.kaggle.com/lmno3418)
 [![LeetCode](https://img.shields.io/badge/%F0%9F%A7%A9_LeetCode-Profile-FFA116?style=for-the-badge)](https://leetcode.com/u/lmno3418/)
 
+</div>
 ---
-
+    
 **"Building with data. Experimenting with AI. Solving real problems."**
+
