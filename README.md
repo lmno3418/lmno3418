@@ -118,5 +118,5 @@ I'm always interested in **AI, data, software engineering, analytics, and practi
 </div>
 ---
     
-**"Building with data. Experimenting with AI. Solving real problems."**
+**"lmno3418: Building with data. Experimenting with AI. Solving real problems."**
 
